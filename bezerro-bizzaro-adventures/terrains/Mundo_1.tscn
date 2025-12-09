@@ -440,6 +440,7 @@ sources/1 = SubResource("TileSetAtlasSource_0hycc")
 sources/2 = SubResource("TileSetAtlasSource_t78nn")
 
 [node name="Mundo_1" type="Node2D"]
+position = Vector2(-21, -14)
 
 [node name="areia" type="TileMapLayer" parent="."]
 position = Vector2(21, 30)
